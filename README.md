@@ -12,7 +12,7 @@
 - Jumper femea/femea
 - Resistores 10k
 
-### Sites confiáveis:
+### Sites confiáveis para compras:
 
 - [Robocore](https://www.robocore.net/)
 - [FilipFlop](https://www.filipeflop.com/)
