@@ -1,5 +1,6 @@
 # Arduino:
-## Professor: Laerte Guerço
+## Professor: Laércio Guerço
+
 
 ### Materiais: 
 
