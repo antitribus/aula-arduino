@@ -8,13 +8,17 @@ void setup() {
 
 void loop() {
   LigarLed();
-  LigarRele();
+  DesligarLed();
 }
 
 void LigarLed() {
+  Serial.println("Ligando...");
   digitalWrite(Pino23, HIGH);
-  Serial.println("Passei por aqui...");
   delay(2000);
+} 
+
+void DesligarLed() {
+  Serial.println("Desligando...");
   digitalWrite(Pino23, LOW);
   delay(2000);
 } 
